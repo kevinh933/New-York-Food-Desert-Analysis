@@ -5,21 +5,21 @@ The goal was to develop a centralized data pipeline and visual dashboard to help
 
 **Programs & Tools Used**:
 
-Database Development:	Microsoft SQL Server (MSSQL)
+-Database Development:	Microsoft SQL Server (MSSQL)
 
-Cloud Storage/Hosting:	AWS
+-Cloud Storage/Hosting:	AWS
 
-ETL Process Automation:	SSIS (SQL Server Integration Services)
+-ETL Process Automation:	SSIS (SQL Server Integration Services)
 
-Data Cleaning & Analysis:	Excel
+-Data Cleaning & Analysis:	Excel
 
-Visualization:	Tableau
+-Visualization:	Tableau
 
-Diagramming & Process Flow:	Visio
+-Diagramming & Process Flow:	Visio
 
-Presentation & Design:	Canva, PowerPoint
+-Presentation & Design:	Canva, PowerPoint
 
-Collaboration & Agile:	Jira, Microsoft Teams, Discord, Zoom, Google Drive
+-Collaboration & Agile:	Jira, Microsoft Teams, Discord, Zoom, Google Drive
 
 # Project Phases & Key Deliverables
 1️⃣ Data Collection & Storage
