@@ -3,7 +3,7 @@ In this capstone project, our team analyzed food deserts in New York, focusing o
 
 The goal was to develop a centralized data pipeline and visual dashboard to help policymakers, community leaders, and advocacy groups make data-driven decisions to improve food accessibility across New York.
 
-Programs & Tools Used
+**Programs & Tools Used**
 
 Database Development:	Microsoft SQL Server (MSSQL)
 
