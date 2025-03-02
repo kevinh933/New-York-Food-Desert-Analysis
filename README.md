@@ -3,7 +3,7 @@ In this capstone project, our team analyzed food deserts in New York, focusing o
 
 The goal was to develop a centralized data pipeline and visual dashboard to help policymakers, community leaders, and advocacy groups make data-driven decisions to improve food accessibility across New York.
 
-**Programs & Tools Used**:
+# Programs & Tools Used
 
 -Database Development:	Microsoft SQL Server (MSSQL)
 
@@ -21,7 +21,7 @@ The goal was to develop a centralized data pipeline and visual dashboard to help
 
 -Collaboration & Agile:	Jira, Microsoft Teams, Discord, Zoom, Google Drive
 
-# Project Phases & Key Deliverables
+## Project Phases & Key Deliverables
 1️⃣ Data Collection & Storage
 
     Collected datasets related to food access, population demographics, and SNAP distribution.
@@ -64,6 +64,6 @@ The goal was to develop a centralized data pipeline and visual dashboard to help
         Visual dashboards and findings.
     Delivered presentation during a final capstone showcase with faculty and industry reviewers.
 
-Team Members:
+## Team Members
 
 Kevin Huang, Jocelyn Keovilay, Reed Joslin, Kenneth Farrell, Benger Lei
